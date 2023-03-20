@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Test name
+name: Test name and Tryingout
 
 run-name: ID ${{ github.actor }} made Changes in ${{ github.ref }} of ${{ github.event.repository.name }}
 # Controls when the workflow will run
